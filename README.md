@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td>
+<div align="center">
 
 <pre>
        _                           __________________________
@@ -20,22 +18,12 @@
       `*-*   `*-*  `*-*'
 </pre>
 
-</td>
-<td valign="middle">
+<p>
+<a href="https://nocat.lol/"><img src="assets/nocat.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://nocat.lol/" title="private encrypted file storage &amp; pastebin">nocat.lol</a>
+&nbsp;&nbsp;//&nbsp;&nbsp;
+<a href="https://gamer.mom/"><img src="assets/gamer.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://gamer.mom/" title="free URL shortener">gamer.mom</a>
+&nbsp;&nbsp;//&nbsp;&nbsp;
+<a href="https://steamcommunity.report/"><img src="assets/steam.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://steamcommunity.report/" title="CS2 stats, VAC status &amp; profile lookup">steamcommunity.report</a>
+</p>
 
-<img src="https://nocat.lol/favicon.ico" width="18" height="18" align="absmiddle">&nbsp;&nbsp;<b><a href="https://nocat.lol/">nocat.lol</a></b><br>
-<sub>private encrypted file storage &amp; pastebin</sub>
-
-<br><br>
-
-<img src="https://gamer.mom/favicon.ico" width="18" height="18" align="absmiddle">&nbsp;&nbsp;<b><a href="https://gamer.mom/">gamer.mom</a></b><br>
-<sub>free url shortener</sub>
-
-<br><br>
-
-<img src="https://steamcommunity.report/assets/favicon-32.png" width="18" height="18" align="absmiddle">&nbsp;&nbsp;<b><a href="https://steamcommunity.report/">steamcommunity.report</a></b><br>
-<sub>CS2 stats, VAC status &amp; profile lookup</sub>
-
-</td>
-</tr>
-</table>
+</div>

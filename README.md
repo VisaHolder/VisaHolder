@@ -21,7 +21,7 @@
 ```
 
 </td>
-<td valign="middle" align="center">
+<td valign="top" align="center">
 
 <p align="center">
 <a href="https://nocat.lol/"><img src="assets/nocat.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://nocat.lol/" title="private encrypted file storage &amp; pastebin">nocat.lol</a>
@@ -38,6 +38,8 @@
 &nbsp;&nbsp;//&nbsp;&nbsp;
 <a href="https://t.me/GamingSandals"><img src="assets/telegram.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://t.me/GamingSandals" title="message me on Telegram">Telegram</a>
 </p>
+
+<br><br><br>
 
 <p align="center">
   <a href="https://steamcommunity.com/id/shitter/">

@@ -55,6 +55,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VisaHolder/VisaHolder/output/snake.svg" alt="contribution snake">
-</p>

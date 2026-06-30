@@ -1,6 +1,4 @@
-<div align="center">
-
-<pre>
+```
       .--------------------------.
       |  they call it nocat.     |
       |  yet here i am.          |
@@ -21,7 +19,9 @@
          ; '   : :`-:     _.`* ;
       .*' /  .*' ; .*`- +'  `*'
       `*-*   `*-*  `*-*'
-</pre>
+```
+
+<div align="center">
 
 <p>
 <a href="https://nocat.lol/"><img src="assets/nocat.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://nocat.lol/" title="private encrypted file storage &amp; pastebin">nocat.lol</a>

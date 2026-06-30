@@ -41,7 +41,7 @@
 <a href="https://t.me/GamingSandals"><img src="assets/telegram.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://t.me/GamingSandals" title="message me on Telegram">Telegram</a>
 </p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p align="left">
   <a href="https://steamcommunity.com/id/shitter/">

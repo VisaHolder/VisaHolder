@@ -1,40 +1,24 @@
 ```
-                                      .------------------------.
-                                      |  zzz... just vibin'    |
-                                      '-----------.------------'
-                                                 /
-            |\      _,,,---,,_                  /
-      ZZZzz /,`.-'`'    -.  ;-;;,_  ----------'
-           |,4-  ) )-,_. ,\ (  `'-'
-          '---''(_/--'  `-'\_)        reap — silly little dude
+       |\      _,,,---,,_           ______________________
+ ZZZzz /,`.-'`'    -.  ;-;;,_      ( zzz... just vibin'   )
+      |,4-  ) )-,_. ,\ (  `'-'      ----------------------
+     '---''(_/--'  `-'\_)
 ```
 
-### whoami
+# reap
 
-```
-$ whoami
-> reap (he/him) · self-hosted everything · serverless tinkerer
+Silly little dude. I host my own stuff and build things on the side.
 
-$ stack
-> Cloudflare Workers · JavaScript · C++ · C# · Python · Lua
+Mostly work with Cloudflare Workers, JavaScript, C++, C#, Python, and a bit of Lua.
 
-$ status
-> chillin'. building stuff. petting the cat.
-```
+### Sites
 
-### 🐾 around the web
+- [nocat.lol](https://nocat.lol/)
+- [gamer.mom](https://gamer.mom/)
+- [steamcommunity.report](https://steamcommunity.report/)
 
-- 🌐 [nocat.lol](https://nocat.lol/)
-- 🎮 [gamer.mom](https://gamer.mom/)
-- 🕹️ [steamcommunity.report](https://steamcommunity.report/)
+### Stuff I've made
 
-### 📌 things I've made
-
-- **PyDisplay** — customisable Windows system monitor overlay (Python)
-- **PyRokuMe** — full Roku remote for Windows, single file, no Electron (Python)
-- **nocat-extension** — grab-bag of grinding tools for retail WoW (Lua)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=VisaHolder&show_icons=true&hide_border=true&theme=dark" alt="stats" height="150" />
-<img src="https://komarev.com/ghpvc/?username=VisaHolder&style=flat-square&color=gray&label=visitors" alt="visitors" />
+- **PyDisplay** — customisable Windows system monitor overlay
+- **PyRokuMe** — full Roku remote for Windows, single file, no Electron
+- **nocat-extension** — grab-bag of grinding tools for retail WoW

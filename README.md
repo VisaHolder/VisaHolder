@@ -1,13 +1,17 @@
+<table>
+<tr>
+<td valign="middle">
+
 ```
        _
        \`*-.
         )  _`-.
-       .  : `. .             .---------------------------.
-       : _   '  \            |                           |
-       ; *` _.   `*-._       |   they call it nocat.     |
-       `-.-'          `-.    |   yet here i am.          |
-         ;       `       `.  |                           |
-         :.       .        \ '---------------------------'
+       .  : `. .
+       : _   '  \
+       ; *` _.   `*-._
+       `-.-'          `-.
+         ;       `       `.
+         :.       .        \
          . \  .   :   .-'   .
          '  `+.;  ;  '      :
          :  '  |    ;       ;-.
@@ -16,7 +20,8 @@
       `*-*   `*-*  `*-*'
 ```
 
-<div align="center">
+</td>
+<td valign="middle">
 
 <p>
 <a href="https://nocat.lol/"><img src="assets/nocat.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://nocat.lol/" title="private encrypted file storage &amp; pastebin">nocat.lol</a>
@@ -34,4 +39,6 @@
 <a href="https://t.me/GamingSandals"><img src="assets/telegram.png" width="16" height="16" align="absmiddle"></a>&nbsp;<a href="https://t.me/GamingSandals" title="message me on Telegram">Telegram</a>
 </p>
 
-</div>
+</td>
+</tr>
+</table>

@@ -1,0 +1,78 @@
+name: rotate cat fact
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: pick random fact and update README
+        run: |
+          python3 <<'PY'
+          import random, re, pathlib
+
+          facts = [
+              "Cat saliva contains a mild natural anesthetic that numbs their bite victims before they realize they've been bitten.",
+              "A cat's tongue is covered in hooked, backward-pointing spines made of keratin — the same material as human fingernails — that can strip meat from bone.",
+              "Black cats were burned alive across medieval Europe during the Black Death. The actual culprit, plague-carrying rats, then multiplied without their natural predator.",
+              "Ancient Egyptians shaved their eyebrows when their cat died as a sign of mourning. Killing a cat — even by accident — was punishable by death.",
+              "Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.",
+              "A cat's purr vibrates between 25 and 150 Hz — the exact frequency range proven to accelerate bone healing and reduce inflammation in humans.",
+              "Adult cats never meow at other adult cats. Meowing is a behaviour they evolved exclusively to manipulate humans.",
+              "There are documented forensic cases of pet cats beginning to eat their deceased owner's face within hours of death — starting with the nose, lips, and eyelids.",
+              "House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.",
+              "A cat's nose print is unique — like a human fingerprint — and can be used to identify individual cats.",
+              "Cats can rotate their ears 180 degrees using 32 muscles per ear, and can move each ear independently to triangulate prey.",
+              "The world's wealthiest cat, Blackie, inherited £7 million (about £20 million today) from his reclusive owner in 1988.",
+              "Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.",
+              "A 33-pound house cat killed and partially consumed its disabled owner in Russia in 2019. Investigators ruled it accidental — the cat was simply hungry.",
+              "A cat's pupils dilate to gather six times more light than a human's, allowing them to see in conditions humans would call total darkness.",
+              "The oldest known pet cat was buried beside its human in Cyprus 9,500 years ago — predating cats' supposed domestication in Egypt by 4,000 years.",
+              "Cats cannot taste sweetness. They are missing the gene for sweet taste receptors entirely — the only mammal known to lack it.",
+              "A cat named Stubbs served as the honorary mayor of Talkeetna, Alaska for 20 years until his death in 2017.",
+              "Cats sweat exclusively through their paw pads. Wet paw prints across a floor mean the cat is overheating or stressed.",
+              "On Aoshima Island in Japan, cats outnumber humans 6 to 1. They are fed by tourists and roam the abandoned village freely.",
+              "Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.",
+              "A house cat can sprint at 30 mph — faster than Usain Bolt's top speed of 27.8 mph.",
+              "Millions of mummified cats have been excavated from Egyptian tombs. One 1888 shipment to England contained so many that they were ground up and sold as fertilizer.",
+              "Cats have killed an estimated 1.3 to 4 billion birds per year in the United States alone. They are the single largest human-caused threat to wild birds.",
+              "The largest litter of kittens ever recorded was 19, born to a Burmese-Siamese mix in 1970. Fifteen survived.",
+              "Cats spend about 70% of their lives asleep — roughly 13 to 16 hours per day. By age 9 they have slept through 6 of those years.",
+              "When a cat slowly blinks at you, it's the feline equivalent of a smile — a vulnerable gesture that signals they trust you not to attack.",
+              "Cats have a vestigial extra organ in the roof of their mouth — the vomeronasal organ — that lets them 'taste' smells. The open-mouth face they pull doing this is called a flehmen response.",
+              "Most calico cats are female. The genes for their orange and black patches sit on the X chromosome, requiring two X's (XX) to display both colours. Male calicos are XXY — a chromosomal disorder.",
+              "Cats walk by moving both right legs, then both left legs — a gait shared only by camels and giraffes."
+          ]
+
+          fact = random.choice(facts)
+          p = pathlib.Path("README.md")
+          content = p.read_text(encoding="utf-8")
+          new = re.sub(
+              r"(<!-- CAT_FACT_START -->)(.*?)(<!-- CAT_FACT_END -->)",
+              lambda m: m.group(1) + fact + m.group(3),
+              content,
+              flags=re.DOTALL,
+          )
+          p.write_text(new, encoding="utf-8")
+          print("picked:", fact)
+          PY
+
+      - name: commit and push
+        run: |
+          if git diff --quiet README.md; then
+            echo "no change, skipping commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "rotate cat fact"
+          git push

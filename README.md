@@ -56,5 +56,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=B0B0B0&center=true&vCenter=true&width=620&height=50&lines=they+call+it+nocat.;yet+here+i+am.;...just+vibin'.;...building+stuff.;...petting+the+cat." alt="typing">
+  <img src="assets/cat-eyes.svg" alt="cat eyes" width="600">
 </p>

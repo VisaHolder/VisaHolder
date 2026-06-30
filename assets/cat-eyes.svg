@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" role="img" aria-label="cat eyes blinking">
+  <defs>
+    <radialGradient id="iris" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#ffd84a"/>
+      <stop offset="60%" stop-color="#e0a92a"/>
+      <stop offset="100%" stop-color="#7a5a12"/>
+    </radialGradient>
+    <radialGradient id="glint" cx="35%" cy="30%" r="20%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- LEFT EYE -->
+  <g transform="translate(230 70)">
+    <ellipse cx="0" cy="0" rx="60" ry="48" fill="url(#iris)" stroke="#1a0d00" stroke-width="3">
+      <animate attributeName="ry"
+               values="48; 48; 48; 2; 48; 48"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="7" ry="40" fill="#0a0a0a">
+      <animate attributeName="ry"
+               values="40; 40; 40; 1; 40; 40"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="-10" cy="-12" rx="18" ry="10" fill="url(#glint)" opacity="0.85">
+      <animate attributeName="ry"
+               values="10; 10; 10; 0; 10; 10"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- RIGHT EYE -->
+  <g transform="translate(370 70)">
+    <ellipse cx="0" cy="0" rx="60" ry="48" fill="url(#iris)" stroke="#1a0d00" stroke-width="3">
+      <animate attributeName="ry"
+               values="48; 48; 48; 2; 48; 48"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="7" ry="40" fill="#0a0a0a">
+      <animate attributeName="ry"
+               values="40; 40; 40; 1; 40; 40"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="-10" cy="-12" rx="18" ry="10" fill="url(#glint)" opacity="0.85">
+      <animate attributeName="ry"
+               values="10; 10; 10; 0; 10; 10"
+               keyTimes="0; 0.42; 0.48; 0.5; 0.52; 1"
+               dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+</svg>

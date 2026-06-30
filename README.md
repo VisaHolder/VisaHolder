@@ -53,8 +53,3 @@
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-  <img src="assets/cat-eyes.svg" alt="cat eyes" width="600">
-</p>

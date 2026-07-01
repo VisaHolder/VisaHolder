@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->The largest litter of kittens ever recorded was 19, born to a Burmese-Siamese mix in 1970. Fifteen survived.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Black cats were burned alive across medieval Europe during the Black Death. The actual culprit, plague-carrying rats, then multiplied without their natural predator.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can rotate their ears 180 degrees using 32 muscles per ear, and can move each ear independently to triangulate prey.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.<!-- CAT_FACT_END --></i></sub>
 </p>
 

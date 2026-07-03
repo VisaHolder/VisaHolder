@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have a vestigial extra organ in the roof of their mouth — the vomeronasal organ — that lets them 'taste' smells. The open-mouth face they pull doing this is called a flehmen response.<!-- CAT_FACT_END --></i></sub>
 </p>
 

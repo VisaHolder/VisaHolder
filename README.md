@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have a vestigial extra organ in the roof of their mouth — the vomeronasal organ — that lets them 'taste' smells. The open-mouth face they pull doing this is called a flehmen response.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->On Aoshima Island in Japan, cats outnumber humans 6 to 1. They are fed by tourists and roam the abandoned village freely.<!-- CAT_FACT_END --></i></sub>
 </p>
 

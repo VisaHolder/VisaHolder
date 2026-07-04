@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->On Aoshima Island in Japan, cats outnumber humans 6 to 1. They are fed by tourists and roam the abandoned village freely.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats walk by moving both right legs, then both left legs — a gait shared only by camels and giraffes.<!-- CAT_FACT_END --></i></sub>
 </p>
 

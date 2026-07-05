@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's pupils dilate to gather six times more light than a human's, allowing them to see in conditions humans would call total darkness.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Millions of mummified cats have been excavated from Egyptian tombs. One 1888 shipment to England contained so many that they were ground up and sold as fertilizer.<!-- CAT_FACT_END --></i></sub>
 </p>
 

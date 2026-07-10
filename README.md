@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->The world's wealthiest cat, Blackie, inherited £7 million (about £20 million today) from his reclusive owner in 1988.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Ancient Egyptians shaved their eyebrows when their cat died as a sign of mourning. Killing a cat — even by accident — was punishable by death.<!-- CAT_FACT_END --></i></sub>
 </p>
 

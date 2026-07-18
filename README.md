@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Adult cats never meow at other adult cats. Meowing is a behaviour they evolved exclusively to manipulate humans.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.<!-- CAT_FACT_END --></i></sub>
 </p>
 

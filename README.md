@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Black cats were burned alive across medieval Europe during the Black Death. The actual culprit, plague-carrying rats, then multiplied without their natural predator.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats spend about 70% of their lives asleep — roughly 13 to 16 hours per day. By age 9 they have slept through 6 of those years.<!-- CAT_FACT_END --></i></sub>
 </p>
 

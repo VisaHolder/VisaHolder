@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->The largest litter of kittens ever recorded was 19, born to a Burmese-Siamese mix in 1970. Fifteen survived.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.<!-- CAT_FACT_END --></i></sub>
 </p>
 

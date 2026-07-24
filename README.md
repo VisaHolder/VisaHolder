@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Adult cats never meow at other adult cats. Meowing is a behaviour they evolved exclusively to manipulate humans.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's tongue is covered in hooked, backward-pointing spines made of keratin — the same material as human fingernails — that can strip meat from bone.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's nose print is unique — like a human fingerprint — and can be used to identify individual cats.<!-- CAT_FACT_END --></i></sub>
 </p>
 

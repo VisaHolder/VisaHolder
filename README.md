@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.<!-- CAT_FACT_END --></i></sub>
 </p>
 

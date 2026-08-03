@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats walk by moving both right legs, then both left legs — a gait shared only by camels and giraffes.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats spend about 70% of their lives asleep — roughly 13 to 16 hours per day. By age 9 they have slept through 6 of those years.<!-- CAT_FACT_END --></i></sub>
 </p>
 

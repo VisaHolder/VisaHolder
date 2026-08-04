@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A 33-pound house cat killed and partially consumed its disabled owner in Russia in 2019. Investigators ruled it accidental — the cat was simply hungry.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats sweat exclusively through their paw pads. Wet paw prints across a floor mean the cat is overheating or stressed.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.<!-- CAT_FACT_END --></i></sub>
 </p>
 

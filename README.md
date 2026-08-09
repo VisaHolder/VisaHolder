@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's purr vibrates between 25 and 150 Hz — the exact frequency range proven to accelerate bone healing and reduce inflammation in humans.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.<!-- CAT_FACT_END --></i></sub>
 </p>
 

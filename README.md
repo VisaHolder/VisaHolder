@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Adult cats never meow at other adult cats. Meowing is a behaviour they evolved exclusively to manipulate humans.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's pupils dilate to gather six times more light than a human's, allowing them to see in conditions humans would call total darkness.<!-- CAT_FACT_END --></i></sub>
 </p>
 

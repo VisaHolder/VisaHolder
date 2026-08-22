@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's purr vibrates between 25 and 150 Hz — the exact frequency range proven to accelerate bone healing and reduce inflammation in humans.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Millions of mummified cats have been excavated from Egyptian tombs. One 1888 shipment to England contained so many that they were ground up and sold as fertilizer.<!-- CAT_FACT_END --></i></sub>
 </p>
 

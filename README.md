@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have a vestigial extra organ in the roof of their mouth — the vomeronasal organ — that lets them 'taste' smells. The open-mouth face they pull doing this is called a flehmen response.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.<!-- CAT_FACT_END --></i></sub>
 </p>
 

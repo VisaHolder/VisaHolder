@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have killed an estimated 1.3 to 4 billion birds per year in the United States alone. They are the single largest human-caused threat to wild birds.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cat saliva contains a mild natural anesthetic that numbs their bite victims before they realize they've been bitten.<!-- CAT_FACT_END --></i></sub>
 </p>
 

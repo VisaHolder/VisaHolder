@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->The oldest known pet cat was buried beside its human in Cyprus 9,500 years ago — predating cats' supposed domestication in Egypt by 4,000 years.<!-- CAT_FACT_END --></i></sub>
 </p>
 

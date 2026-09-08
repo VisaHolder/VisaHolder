@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->When a cat slowly blinks at you, it's the feline equivalent of a smile — a vulnerable gesture that signals they trust you not to attack.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.<!-- CAT_FACT_END --></i></sub>
 </p>
 

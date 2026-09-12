@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cat saliva contains a mild natural anesthetic that numbs their bite victims before they realize they've been bitten.<!-- CAT_FACT_END --></i></sub>
 </p>
 

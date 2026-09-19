@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's tongue is covered in hooked, backward-pointing spines made of keratin — the same material as human fingernails — that can strip meat from bone.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's purr vibrates between 25 and 150 Hz — the exact frequency range proven to accelerate bone healing and reduce inflammation in humans.<!-- CAT_FACT_END --></i></sub>
 </p>
 

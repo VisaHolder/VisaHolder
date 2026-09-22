@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A house cat can sprint at 30 mph — faster than Usain Bolt's top speed of 27.8 mph.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.<!-- CAT_FACT_END --></i></sub>
 </p>
 

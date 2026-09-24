@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have killed an estimated 1.3 to 4 billion birds per year in the United States alone. They are the single largest human-caused threat to wild birds.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats use their whiskers to gauge whether they can fit through a gap — and as airflow sensors so accurate they can navigate in pitch dark by feeling pressure changes alone.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats cannot taste sweetness. They are missing the gene for sweet taste receptors entirely — the only mammal known to lack it.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->On Aoshima Island in Japan, cats outnumber humans 6 to 1. They are fed by tourists and roam the abandoned village freely.<!-- CAT_FACT_END --></i></sub>
 </p>
 

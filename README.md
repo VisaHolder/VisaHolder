@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A 33-pound house cat killed and partially consumed its disabled owner in Russia in 2019. Investigators ruled it accidental — the cat was simply hungry.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A house cat can sprint at 30 mph — faster than Usain Bolt's top speed of 27.8 mph.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Adult cats never meow at other adult cats. Meowing is a behaviour they evolved exclusively to manipulate humans.<!-- CAT_FACT_END --></i></sub>
 </p>
 

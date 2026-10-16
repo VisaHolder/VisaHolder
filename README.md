@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Millions of mummified cats have been excavated from Egyptian tombs. One 1888 shipment to England contained so many that they were ground up and sold as fertilizer.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can hear ultrasound up to 64 kHz — far beyond dogs (45 kHz) and humans (20 kHz). They can hear a mouse's heartbeat from across a room.<!-- CAT_FACT_END --></i></sub>
 </p>
 

@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cat saliva contains a mild natural anesthetic that numbs their bite victims before they realize they've been bitten.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Black cats were burned alive across medieval Europe during the Black Death. The actual culprit, plague-carrying rats, then multiplied without their natural predator.<!-- CAT_FACT_END --></i></sub>
 </p>
 

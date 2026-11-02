@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->The oldest known pet cat was buried beside its human in Cyprus 9,500 years ago — predating cats' supposed domestication in Egypt by 4,000 years.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's purr vibrates between 25 and 150 Hz — the exact frequency range proven to accelerate bone healing and reduce inflammation in humans.<!-- CAT_FACT_END --></i></sub>
 </p>
 

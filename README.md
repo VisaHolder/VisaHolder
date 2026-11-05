@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Ancient Egyptians shaved their eyebrows when their cat died as a sign of mourning. Killing a cat — even by accident — was punishable by death.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->House cats share 95.6% of their DNA with tigers. Their hunting, stalking, and play behaviour is functionally identical.<!-- CAT_FACT_END --></i></sub>
 </p>
 

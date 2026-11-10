@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cat saliva contains a mild natural anesthetic that numbs their bite victims before they realize they've been bitten.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Most calico cats are female. The genes for their orange and black patches sit on the X chromosome, requiring two X's (XX) to display both colours. Male calicos are XXY — a chromosomal disorder.<!-- CAT_FACT_END --></i></sub>
 </p>
 

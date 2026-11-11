@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Most calico cats are female. The genes for their orange and black patches sit on the X chromosome, requiring two X's (XX) to display both colours. Male calicos are XXY — a chromosomal disorder.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->On Aoshima Island in Japan, cats outnumber humans 6 to 1. They are fed by tourists and roam the abandoned village freely.<!-- CAT_FACT_END --></i></sub>
 </p>
 

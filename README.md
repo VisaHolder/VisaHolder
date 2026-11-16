@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats have a vestigial extra organ in the roof of their mouth — the vomeronasal organ — that lets them 'taste' smells. The open-mouth face they pull doing this is called a flehmen response.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->Cats can survive falls from over 32 stories. Statistically, falls from 7 stories are MORE dangerous than from 30 — they need time mid-air to right themselves.<!-- CAT_FACT_END --></i></sub>
 </p>
 

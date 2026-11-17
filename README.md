@@ -44,6 +44,6 @@
 </table>
 
 <p align="center">
-  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A house cat can sprint at 30 mph — faster than Usain Bolt's top speed of 27.8 mph.<!-- CAT_FACT_END --></i></sub>
+  <sub><b>did you know?</b> &nbsp; <i><!-- CAT_FACT_START -->A cat's tongue is covered in hooked, backward-pointing spines made of keratin — the same material as human fingernails — that can strip meat from bone.<!-- CAT_FACT_END --></i></sub>
 </p>
 
